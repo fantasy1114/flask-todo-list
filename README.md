@@ -16,7 +16,7 @@ https://github.com/rtzll/django-todolist
 
 
 ## Explore
-Try it out!
+Try it out!!
 ### Docker
 Using `docker-compose` you can simple run:
 
